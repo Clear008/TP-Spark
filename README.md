@@ -36,8 +36,6 @@ Pour l’exercice 2 :
 
 
 ## 👨‍💻 Auteur
-Nom : [Ton Nom]
+Nom : Leknouch Wissal
 
 Formation : BDCC - ENSET Mohammedia
-
-Date : Mai 2025
